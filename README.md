@@ -1,4 +1,4 @@
-# 👾 Mohammed Saud Shaikh
+# Mohammed Saud Shaikh
 
 *"The code I write is as sharp as my blade. Precision is the game, and I don’t miss."*
 
