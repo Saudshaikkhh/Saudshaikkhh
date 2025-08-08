@@ -14,7 +14,6 @@
 
 I'm a passionate **Data Scientist** and **Machine Learning Engineer** who specializes in building intelligent systems that solve real-world problems. I combine technical precision with analytical thinking to deliver impactful solutions across AI, web development, and data analytics.
 
-- 🔭 Currently pursuing **Bachelor of Science in Computer Science** at Rizvi College
 - 🌱 Exploring **advanced AI architectures** and **cloud technologies**
 - 👯 Open to collaborating on **innovative data science projects**
 - 💬 Ask me about **AI/ML, Data Analytics, Web Development, or NLP**
