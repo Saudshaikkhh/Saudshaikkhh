@@ -19,7 +19,6 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** who specia
 - 💬 Ask me about **AI/ML, Data Analytics, Web Development, or NLP**
 - ⚡ Fun fact: I believe data tells the most compelling stories
 
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -83,7 +82,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** who specia
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saudshaikkhh&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Saudshaikkhh&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
