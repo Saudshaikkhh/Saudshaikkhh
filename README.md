@@ -20,24 +20,6 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** who specia
 - 💬 Ask me about **AI/ML, Data Analytics, Web Development, or NLP**
 - ⚡ Fun fact: I believe data tells the most compelling stories
 
-<div align="center">
-
-## 🎓 Education
-
-<table>
-<tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50"><br>
-<b>Bachelor of Science</b><br>
-Computer Science<br>
-<i>Rizvi College of Arts, Science and Commerce</i><br>
-📅 July 2022 – March 2025<br>
-📍 Mumbai, Maharashtra
-</td>
-</tr>
-</table>
-
-</div>
 
 ## 🛠️ Tech Arsenal
 
