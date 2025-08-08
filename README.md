@@ -20,6 +20,25 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** who specia
 - 💬 Ask me about **AI/ML, Data Analytics, Web Development, or NLP**
 - ⚡ Fun fact: I believe data tells the most compelling stories
 
+<div align="center">
+
+## 🎓 Education
+
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50"><br>
+<b>Bachelor of Science</b><br>
+Computer Science<br>
+<i>Rizvi College of Arts, Science and Commerce</i><br>
+📅 July 2022 – March 2025<br>
+📍 Mumbai, Maharashtra
+</td>
+</tr>
+</table>
+
+</div>
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -76,20 +95,20 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** who specia
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saudshaikkh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saudshaikkh&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saudshaikkhh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saudshaikkhh&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saudshaikkh&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saudshaikkhh&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saudshaikkh&theme=react-dark&bg_color=0D1117&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saudshaikkhh&theme=react-dark&bg_color=0D1117&hide_border=true)
 
 </div>
 
@@ -171,7 +190,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** who specia
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saudshaikkhh)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saudshaikkh)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saudshaikkhh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhmohdsaud2004@gmail.com)
 
 </div>
@@ -185,8 +204,8 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** who specia
 
 **🔥 Transforming raw data into actionable insights through precision, innovation, and scalable solutions.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=saudshaikkh&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/saudshaikkh?label=Follow&style=social)](https://github.com/saudshaikkh)
+![Profile Views](https://komarev.com/ghpvc/?username=Saudshaikkhh&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Saudshaikkhh?label=Follow&style=social)](https://github.com/Saudshaikkhh)
 
 </div>
 
@@ -194,7 +213,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** who specia
 
 ### 🌟 Fun Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=saudshaikkh&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Saudshaikkhh&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -204,6 +223,6 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** who specia
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-⭐️ *From [Shaikh Mohammed Saud Naeem](https://github.com/saudshaikkh) - Turning data into intelligence, one algorithm at a time.*
+⭐️ *From [Shaikh Mohammed Saud Naeem](https://github.com/Saudshaikkhh) - Turning data into intelligence, one algorithm at a time.*
 
 </div>
